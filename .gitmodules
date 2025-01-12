@@ -1,0 +1,8 @@
+[submodule "backend"]
+    path = backend
+    url = git@github.com:AlexF-1203/nba_suivis-backend.git
+
+[submodule "frontend"]
+    path = frontend
+    url = git@github.com:AlexF-1203/nba_suivis-frontend.git
+
